@@ -1,5 +1,0 @@
-git init
-git config --global user.name "Pranab"
-git config --global user.email "pdas3018@gmail.com"
-git add . #add all the files in that folder to the staging area
-
